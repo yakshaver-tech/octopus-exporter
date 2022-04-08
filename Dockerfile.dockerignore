@@ -1,0 +1,7 @@
+octopus-exporter
+.git*
+Dockerfile*
+docker-compose.yml*
+Makefile*
+Dockerfile.dockerignore
+README*
